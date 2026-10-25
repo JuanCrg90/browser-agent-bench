@@ -1,0 +1,5 @@
+# Third-party software
+
+The frozen starter lockfile declares Vite 8.3.4 and Three.js 0.186.1, reported as MIT-licensed in registry metadata. Consumers obtain these dependencies when installing the starter; this repository does not distribute dependency packages or a built bundle. External tools report Pi 1.4.0 as MIT and playwright-cli 0.1.21 as Apache-2.0. These declared tool licenses are not a completed audit of all transitive dependencies.
+
+Consult the upstream license sources: [Vite](https://github.com/vitejs/vite/blob/main/LICENSE), [Three.js](https://github.com/mrdoob/three.js/blob/dev/LICENSE), [Pi](https://github.com/earendil-works/pi/blob/main/LICENSE), and [playwright-cli](https://github.com/microsoft/playwright-cli). No additional notice obligations are asserted here. The root [MIT license](LICENSE) covers authored project files, including the starter; preserve that license when redistributing copied or generated starter material. It does not claim ownership of dependency code.

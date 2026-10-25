@@ -1,0 +1,22 @@
+{
+  "referenceDate": "2026-01-15",
+  "projects": [
+    { "id": "p1", "name": "Launchpad", "description": "Prepare the public product launch." },
+    { "id": "p2", "name": "Observatory", "description": "Improve monitoring and operational visibility." },
+    { "id": "p3", "name": "Workbench", "description": "Make the team's daily development workflow smoother." }
+  ],
+  "tasks": [
+    { "id": "t01", "projectId": "p1", "title": "Draft launch brief", "assignee": "Maya Chen", "status": "done", "priority": "high", "deadline": "2026-01-08" },
+    { "id": "t02", "projectId": "p1", "title": "Review signup flow", "assignee": "Luis Vega", "status": "in_progress", "priority": "high", "deadline": "2026-01-12" },
+    { "id": "t03", "projectId": "p1", "title": "Write release notes", "assignee": "Maya Chen", "status": "todo", "priority": "medium", "deadline": "2026-01-20" },
+    { "id": "t04", "projectId": "p1", "title": "Check mobile layout", "assignee": "Ari Singh", "status": "todo", "priority": "high", "deadline": "2026-01-15" },
+    { "id": "t05", "projectId": "p2", "title": "Add latency charts", "assignee": "Noor Ali", "status": "done", "priority": "medium", "deadline": "2026-01-10" },
+    { "id": "t06", "projectId": "p2", "title": "Review alert thresholds", "assignee": "Luis Vega", "status": "in_progress", "priority": "high", "deadline": "2026-01-14" },
+    { "id": "t07", "projectId": "p2", "title": "Document incident process", "assignee": "Ari Singh", "status": "done", "priority": "low", "deadline": "2026-01-14" },
+    { "id": "t08", "projectId": "p2", "title": "Audit dashboard permissions", "assignee": "Noor Ali", "status": "todo", "priority": "medium", "deadline": "2026-01-22" },
+    { "id": "t09", "projectId": "p3", "title": "Speed up local setup", "assignee": "Maya Chen", "status": "in_progress", "priority": "medium", "deadline": "2026-01-09" },
+    { "id": "t10", "projectId": "p3", "title": "Refresh test fixtures", "assignee": "Noor Ali", "status": "done", "priority": "low", "deadline": "2026-01-11" },
+    { "id": "t11", "projectId": "p3", "title": "Review keyboard shortcuts", "assignee": "Luis Vega", "status": "todo", "priority": "low", "deadline": "2026-01-13" },
+    { "id": "t12", "projectId": "p3", "title": "Improve build diagnostics", "assignee": "Ari Singh", "status": "in_progress", "priority": "high", "deadline": "2026-01-20" }
+  ]
+}

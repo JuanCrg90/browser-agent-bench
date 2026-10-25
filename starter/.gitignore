@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.benchmark/sessions/
+.env
+.env.*
+*.pem
